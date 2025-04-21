@@ -72,6 +72,7 @@ Allows users to mark as completed, which also removes it from the saved list.
 
 
 **Technologies Used**
+
 Home Page: React Hook, React Router, Event Handling, CSS Modules
 
 Search Page: React Hook, React Router, React Form, Event Handling, CSS Modules
